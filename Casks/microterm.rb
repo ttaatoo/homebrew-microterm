@@ -1,6 +1,6 @@
 cask "microterm" do
-  version "1.5.1"
-  sha256 "0874d3daa172dd05de20156f612292913e51226606a5b6ca192609d2d339d4b3"
+  version "1.5.2"
+  sha256 "dbd3db60a11d7e2020e991a4491e22e466db33be16f51e6eac4f89e5c13652fe"
 
   url "https://github.com/ttaatoo/microterm/releases/download/v#{version}/microterm_#{version}_aarch64.dmg"
   name "µTerm"
